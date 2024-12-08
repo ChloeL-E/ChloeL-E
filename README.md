@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChloeL-E
-- 👀 I’m interested in everything to do with code!! When im not coding i enjoy swimming, running, reading and spending time with my family 
-- 🌱 I’ve recently completed a Level 5 Diploma in Web development through Code Institute. 
+- 👀 I’m interested in everything to do with code!! When i'm not coding I enjoy swimming, running, weight liftng, reading and spending time with my family 
+- 🌱 I’ve recently completed a Level 5 Diploma in Web Development through Code Institute 
 - 💞️ I’m currently working on further developing my skills in React and Python
 - 📫 How to reach me... Chloe Livingstone-Evans on Slack
 
